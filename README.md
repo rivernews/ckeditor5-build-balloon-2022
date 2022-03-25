@@ -1,3 +1,5 @@
+Deprecated. Replaced by https://github.com/rivernews/ckeditor5.
+
 CKEditor 5 balloon editor build
 ==============================================
 
